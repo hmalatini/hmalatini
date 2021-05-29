@@ -22,6 +22,7 @@ My degree final project of my career, was a robot called **_HERMES_**. It was ab
 ## 📫 How to reach me
 &nbsp;&nbsp;&nbsp;&nbsp;[![gmails](https://user-images.githubusercontent.com/23034388/120028077-81784380-bff4-11eb-975b-48dfa5d8973e.png)](mailto:nani93@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;[![linkedins](https://user-images.githubusercontent.com/23034388/120028154-9ce34e80-bff4-11eb-8124-3883df19fb73.png)](https://www.linkedin.com/in/hmalatini/)
+&nbsp;&nbsp;&nbsp;&nbsp;[![github](https://user-images.githubusercontent.com/23034388/120060981-3a716900-c05b-11eb-9895-54c99a287f51.png)](https://github.com/hmalatini)
 
 ---
 <p align="center"> 
