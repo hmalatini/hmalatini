@@ -24,9 +24,13 @@ My degree final project of my career, was a robot called **_HERMES_**. It was ab
 &nbsp;&nbsp;&nbsp;&nbsp;[![linkedins](https://user-images.githubusercontent.com/23034388/120028154-9ce34e80-bff4-11eb-8124-3883df19fb73.png)](https://www.linkedin.com/in/hmalatini/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![github](https://user-images.githubusercontent.com/23034388/120060981-3a716900-c05b-11eb-9895-54c99a287f51.png)](https://github.com/hmalatini)
 
+
 ---
 <p align="center"> 
   <img src="https://sdk.bitmoji.com/render/panel/13432f6f-2f58-481e-9e0e-1b28423fe2f7-e1b374fb-68ff-4b8b-bb46-a837a24fb984-v1.png?transparent=1&palette=1&width=256" />
+</p>
+<p align="center"> 
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hmalatini?cardType=level&theme=dark" />
 </p>
 
 
